@@ -3,4 +3,4 @@ Soybean Pulao Recipe
 
 Made by Arpit Pattankude
 
-Link: 
+Link: https://arpit0825.github.io/Project-26/
